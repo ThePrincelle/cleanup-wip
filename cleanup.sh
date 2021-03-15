@@ -3,7 +3,7 @@
 # ----------------
 
 # Working directory
-DIR="./test_dir"
+DIR="./test_dir_copy"
 
 # Stuff to remove
 remove_arr=()
